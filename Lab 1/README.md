@@ -56,28 +56,21 @@ Labs are due on Mondays. Make sure this page is linked to on your main class hub
 
 ## Part A. Plan 
 
-To stage the interaction with your interactive device, think about:
-
-_Setting:_ Where is this interaction happening? (e.g., a jungle, the kitchen) When is it happening?
-
-_Players:_ Who is involved in the interaction? Who else is there? If you reflect on the design of current day interactive devices like the Amazon Alexa, it’s clear they didn’t take into account people who had roommates, or the presence of children. Think through all the people who are in the setting.
-
-_Activity:_ What is happening between the actors?
-
-_Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening the fridge). 
-
-The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
-
 \*\***Describe your setting, players, activity and goals here.**\*\*
 
-Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
+Michelle is waiting in the living room of her apartment for her friend Lily to arrive so the two of them can go out for lunch. When Lily walks in she ask Michelle for a phone charger and says she needs a few minutes to charge her phone before they can leave. Lily plugs in her phone in using the only outlet in the living room and the two of them sit down on the couch to catch up until the phone is fully charged. However, the only outlet is across the room from the couch so every few minutes Lily has to get up to check the battery percent.
+
+Rather than getting up or having to check the phone every few minutes to see the battery percent, the Illumiated Phone Charger lights up when the phone is fully charged. This way Lily can be fully engaged in the TV show conversation with Michelle rather than continously interupting to check her phone, and be alterted only when the charging is complete. 
+ 
 
 \*\***Include a picture of your storyboard here**\*\*
 
-Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
+
+[storyboard]Lab 1/idd_lab1_storyboard.jpg
 
 \*\***Summarize feedback you got here.**\*\*
 
+When we discussed this idea the feedback was positive and others in the group said it was a product they would be interested in. We also brainstormed additional features such as transforming the cord so it looks like a snake light, lighting up roughly in psync with the percentage charge of the phone for people who did not need to wait for 100%. Other ideas included the ability to personalize the colors and type of light that come on at the end (flashing, bright dimmed etc.)
 
 ## Part B. Act out the Interaction
 
