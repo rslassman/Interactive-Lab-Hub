@@ -66,7 +66,7 @@ Rather than getting up or having to check the phone every few minutes to see the
 \*\***Include a picture of your storyboard here**\*\*
 
 
-[storyboard](Lab 1/idd_lab1_storyboard.jpg)
+![storyboard](Lab 1/idd_lab1_storyboard.jpg)
 
 \*\***Summarize feedback you got here.**\*\*
 
