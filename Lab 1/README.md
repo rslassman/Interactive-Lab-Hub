@@ -84,16 +84,8 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 ## Part C. Prototype the device
 
-You will be using your smartphone as a stand-in for the device you are prototyping. You will use the browser of your smart phone to act as a “light” and use a remote control interface to remotely change the light on that device. 
-
-Code for the "Tinkerbelle" tool, and instructions for setting up the server and your phone are [here](https://github.com/FAR-Lab/tinkerbelle).
-
-We invented this tool for this lab! 
-
-If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
-
 \*\***Give us feedback on Tinkerbelle.**\*\*
-
+I was not able to get tinkerbell working on my mac. I got through all of the steps in terminal but the webpage never opened. 
 
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
@@ -119,6 +111,10 @@ Think about the setting of the device: is the environment a place where the devi
 ## Part F. Record
 
 \*\***Take a video of your prototyped interaction.**\*\*
+
+
+https://user-images.githubusercontent.com/45234433/132153830-b7a255de-03fa-4d54-a546-98b72b8fbde4.mp4
+
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
