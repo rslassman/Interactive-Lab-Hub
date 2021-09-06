@@ -72,7 +72,7 @@ Rather than getting up or having to check the phone every few minutes to see the
 
 \*\***Summarize feedback you got here.**\*\*
 
-Feedback was positive and group students said it was a product they would be interested in. We also brainstormed additional features such as transforming the cable so it looks like a snake light, lighting up in proportion to the percentage charge of the phone for people who did not need to wait for 100%. Other ideas included the ability to personalize the colors and type of light that comes on at the end (flashing, brightness etc.)
+Feedback was positive and students said it was a product they would be interested in. We also brainstormed additional features such as transforming the cable so it looks like a snake light, lighting up in proportion to the percentage charge of the phone for people who did not need to wait for 100%. Other ideas included the ability to personalize the colors and type of light that comes on at the end (flashing, brightness etc.)
 
 ## Part B. Act out the Interaction
 
