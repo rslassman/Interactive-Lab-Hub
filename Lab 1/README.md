@@ -66,7 +66,8 @@ Rather than getting up or having to check the phone every few minutes to see the
 \*\***Include a picture of your storyboard here**\*\*
 
 
-![Storyboard for 100% battery life](https://user-images.githubusercontent.com/45234433/132138202-707826a2-94c7-41af-b6db-6df7351fb821.jpg)
+![Storyboard: 100% battery life](https://user-images.githubusercontent.com/45234433/132157783-98102834-3a2a-464e-8864-d3f1ed6b5c0e.jpg)
+
 
 
 \*\***Summarize feedback you got here.**\*\*
@@ -92,14 +93,15 @@ I was not able to get tinkerbell working on my mac. I got through all of the ste
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
 
-https://user-images.githubusercontent.com/45234433/132156262-63f708f4-095b-4567-86d5-2eae5bed066e.mp4
+https://user-images.githubusercontent.com/45234433/132157817-2b72c533-4e2c-468f-a184-a66c193d4a8b.mp4
 
 
 \*\***Show the follow-up work here.**\*\*
 
 In this new interaction the goal is now for Lily to be notified at the battery percentage of her choosing (e.g. 60%) rather than 100%. 
 
-![Storyboard for 60% battery life](https://user-images.githubusercontent.com/45234433/132156776-9e0f1365-d0db-4e48-a0f2-aa180ce9fc7b.jpg)
+![Sotryboard: 60% battery life](https://user-images.githubusercontent.com/45234433/132157840-311912ca-4a56-4b56-a696-d90506f024c4.jpg)
+
 
 ## Part E. Costume the device
 
@@ -117,7 +119,7 @@ N/A did not costume device. The device would look the same as it does today with
 
 \*\***Take a video of your prototyped interaction.**\*\*
 
-https://user-images.githubusercontent.com/45234433/132153830-b7a255de-03fa-4d54-a546-98b72b8fbde4.mp4
+https://user-images.githubusercontent.com/45234433/132157870-e6e1ba39-aa9f-4cb7-ad32-c0c667f900e9.mp4
 
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
