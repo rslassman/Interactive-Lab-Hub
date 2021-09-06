@@ -66,59 +66,63 @@ Rather than getting up or having to check the phone every few minutes to see the
 \*\***Include a picture of your storyboard here**\*\*
 
 
-![idd_lab1_storyboard](https://user-images.githubusercontent.com/45234433/132138202-707826a2-94c7-41af-b6db-6df7351fb821.jpg)
+![Storyboard for 100% battery life](https://user-images.githubusercontent.com/45234433/132138202-707826a2-94c7-41af-b6db-6df7351fb821.jpg)
 
 
 \*\***Summarize feedback you got here.**\*\*
 
-When we discussed this idea the feedback was positive and others in the group said it was a product they would be interested in. We also brainstormed additional features such as transforming the cord so it looks like a snake light, lighting up roughly in psync with the percentage charge of the phone for people who did not need to wait for 100%. Other ideas included the ability to personalize the colors and type of light that come on at the end (flashing, bright dimmed etc.)
+When we discussed this idea in the breakout room the feedback was positive and group members said it was a product they would be interested in. We also brainstormed additional features such as transforming the cord so it looks like a snake light, lighting up roughly in psync with the percentage charge of the phone for people who did not need to wait for 100%. Other ideas included the ability to personalize the colors and type of light that come on at the end (flashing, bright dimmed etc.)
 
 ## Part B. Act out the Interaction
 
-Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
-
 \*\***Are there things that seemed better on paper than acted out?**\*\*
+
+The interaction is fairly simple and seemed to run smoothly when acted out in the same way as written on paper. However, I only had myself at the time so unlike in the storyboard, there was only one person in the acted out scenario rather than two. 
 
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
 
+One new idea was rather than having a snake light showing the battery percentage another option would be having the lighting of the converter itself increase in intensity or start flashing when charging is complete. 
 
 ## Part C. Prototype the device
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
 I was not able to get tinkerbell working on my mac. I got through all of the steps in terminal but the webpage never opened. 
 
-## Part D. Wizard the device
-Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
+## Part D. Wizard the device 
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
 
-Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
+https://user-images.githubusercontent.com/45234433/132156262-63f708f4-095b-4567-86d5-2eae5bed066e.mp4
+
 
 \*\***Show the follow-up work here.**\*\*
 
+In this new interaction the goal is now for Lily to be notified at the battery percentage of her choosing (e.g. 60%) rather than 100%. 
+
+![Storyboard for 60% battery life](https://user-images.githubusercontent.com/45234433/132156776-9e0f1365-d0db-4e48-a0f2-aa180ce9fc7b.jpg)
 
 ## Part E. Costume the device
 
-Only now should you start worrying about what the device should look like. Develop a costume so that you can use your phone as this device.
-
-Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
+The parts of the device (adapter and cord) already exist, what is new is the ability for either or both the be illuminated. In this way I did not costume the device but hung the device behing the TV on the wall so the flashing light would appear on the adapter as if it were actually coming from the adapter itself. 
 
 \*\***Include sketches of what your device might look like here.**\*\*
 
+N/A did not costume device. The device would look the same as it does today with different capabilities.
+
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 
+N/A did not costume device. The device would look the same as it does today with different capabilities. People are familiar with the adaprter cord set up for phone chargers and so it may be important to keep the same design. This would also enable other companies to incorporate a similar feature. 
 
 ## Part F. Record
 
 \*\***Take a video of your prototyped interaction.**\*\*
 
-
 https://user-images.githubusercontent.com/45234433/132153830-b7a255de-03fa-4d54-a546-98b72b8fbde4.mp4
 
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
-Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
+This challenge of checking your phone while charging and thinking about ways that lighting could help in this situation was originally developed by Marvin Edmond during our in class group breakout room. As a group we then brainstormed the type of light notifications that could be incorporated.  
 
 
 # Staging Interaction, Part 2 
