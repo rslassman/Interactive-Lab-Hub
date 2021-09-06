@@ -106,7 +106,7 @@ In this new interaction the goal is now for Lily to be notified at the battery p
 
 ## Part E. Costume the device
 
-The parts of the device (adapter and cable) already exist, what is new is the ability for either or both the be illuminated. In this way I did not costume the device but hung the device behind the TV on the wall above the charger so the flashing light would appear on the adapter as if it were actually coming from the adapter itself. For this iteration I focused on the flashing of the adapter to signal when the charging was complete.
+The parts of the device (adapter and cable) already exist, what is new is the ability for either or both to be illuminated. In this way I did not costume the device but hung the device behind the TV on the wall above the charger so the flashing light would appear on the adapter as if it were actually coming from the adapter itself. For this iteration I focused on the flashing of the adapter to signal when the charging was complete.
 
 ![Device sketch](https://user-images.githubusercontent.com/45234433/132160039-8d4fb259-f987-498f-8200-1c83500e6172.jpg)
 
