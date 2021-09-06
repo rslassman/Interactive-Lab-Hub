@@ -58,9 +58,9 @@ Labs are due on Mondays. Make sure this page is linked to on your main class hub
 
 \*\***Describe your setting, players, activity and goals here.**\*\*
 
-Michelle is waiting in the living room of her apartment for her friend Lily to arrive so the two of them can go out for lunch. When Lily walks in she ask Michelle for a phone charger and says she needs a few minutes to charge her phone before they can leave. Lily plugs in her phone in using the only outlet in the living room and the two of them sit down on the couch to catch up until the phone is fully charged. However, the only outlet is across the room from the couch so every few minutes Lily has to get up to check the battery percent.
+Michelle is waiting in the living room of her apartment for her friend Lily to arrive so the two of them can go out for lunch. When Lily walks in she ask Michelle for a phone charger and says she needs a few minutes to charge her phone before they can leave. Lily plugs in her phone using the only outlet in the living room and the two of them sit down on the couch to catch up until the phone is fully charged. However, the only outlet is across the room from the couch so every few minutes Lily has to get up to check the battery percent.
 
-Rather than getting up or having to check the phone every few minutes to see the battery percent, the Illumiated Phone Charger lights up when the phone is fully charged. This way Lily can be fully engaged in the TV show conversation with Michelle rather than continously interupting to check her phone, and be alterted only when the charging is complete. 
+Rather than getting up or having to check the phone every few minutes to see the battery percent, the Illumiated Phone Charger lights up when the phone is fully charged. This way Lily can be fully engaged in her conversation with Michelle, rather than continously interupting to check her phone, and be alterted only when the charging is complete. 
  
 
 \*\***Include a picture of your storyboard here**\*\*
@@ -72,7 +72,7 @@ Rather than getting up or having to check the phone every few minutes to see the
 
 \*\***Summarize feedback you got here.**\*\*
 
-When we discussed this idea in the breakout room the feedback was positive and group members said it was a product they would be interested in. We also brainstormed additional features such as transforming the cable so it looks like a snake light, lighting up in proportion to the percentage charge of the phone for people who did not need to wait for 100%. Other ideas included the ability to personalize the colors and type of light that come on at the end (flashing, bright dimmed etc.)
+Feedback was positive and group students said it was a product they would be interested in. We also brainstormed additional features such as transforming the cable so it looks like a snake light, lighting up in proportion to the percentage charge of the phone for people who did not need to wait for 100%. Other ideas included the ability to personalize the colors and type of light that comes on at the end (flashing, brightness etc.)
 
 ## Part B. Act out the Interaction
 
@@ -82,7 +82,7 @@ The interaction is fairly simple and seemed to run smoothly when acted out in th
 
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
 
-One new idea was rather than having a snake light showing the battery percentage another option would be having the lighting of the converter itself increase in intensity or start flashing when charging is complete. 
+One new idea for displaying/communicating the battery percentage is having the lighting of the converter itself increase in brightness and then change color once complete. 
 
 ## Part C. Prototype the device
 
@@ -99,25 +99,25 @@ https://user-images.githubusercontent.com/45234433/132157817-2b72c533-4e2c-468f-
 
 \*\***Show the follow-up work here.**\*\*
 
-In this new interaction the goal is now for Lily to be notified at the battery percentage of her choosing (e.g. 60%) rather than 100%. This is incorporated by adding a new first step in which she sets the battery life goal when the phone is first plugged into the charger, before she leaves it to charge. 
+In this new interaction the goal is now for Lily to be notified at the battery percentage of her choosing (e.g. 60%) rather than 100%. This is incorporated by adding a new first step in which she sets the battery life threshold when the phone is first plugged into the charger, before she leaves it to charge. 
 
 ![Storyboard: 60% battery life](https://user-images.githubusercontent.com/45234433/132160007-6a987799-9918-448f-aa11-0c7ae377d2c1.jpg)
 
 
 ## Part E. Costume the device
 
-The parts of the device (adapter and cable) already exist, what is new is the ability for either or both the be illuminated. In this way I did not costume the device but hung the device behing the TV on the wall so the flashing light would appear on the adapter as if it were actually coming from the adapter itself. For this iteration I focused on the flashing of the adapter.
+The parts of the device (adapter and cable) already exist, what is new is the ability for either or both the be illuminated. In this way I did not costume the device but hung the device behind the TV on the wall above the charger so the flashing light would appear on the adapter as if it were actually coming from the adapter itself. For this iteration I focused on the flashing of the adapter to signal when the charging was complete.
 
 ![Device sketch](https://user-images.githubusercontent.com/45234433/132160039-8d4fb259-f987-498f-8200-1c83500e6172.jpg)
 
 
 \*\***Include sketches of what your device might look like here.**\*\*
 
-N/A did not costume device. The device would look the same as it does today with different capabilities.
+N/A. I did not costume the device. The device would look the same as it does today with different capabilities.
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 
-N/A did not costume device. The device would look the same as it does today with different capabilities. People are familiar with the adaprter cord set up for phone chargers and so it may be important to keep the same design. This would also enable other companies to incorporate a similar feature. 
+N/A. I did not costume the device. The device would look the same as it does today with different capabilities. People are familiar with the adapter cable setup for phone chargers and so it may be important to keep the same design. This would also enable other companies to incorporate a similar feature. 
 
 ## Part F. Record
 
