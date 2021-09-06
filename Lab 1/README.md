@@ -106,18 +106,18 @@ In this new interaction the goal is now for Lily to be notified at the battery p
 
 ## Part E. Costume the device
 
-The parts of the device (adapter and cable) already exist, what is new is the ability for either or both to be illuminated. In this way I did not costume the device but hung the device behind the TV on the wall above the charger so the flashing light would appear on the adapter as if it were actually coming from the adapter itself. For this iteration I focused on the flashing of the adapter to signal when the charging was complete.
+The parts of the device (adapter and cable) already exist, what is new is the ability for either or both to be illuminated. In this way I did not costume the iphone but instead hung the iphone behind the TV on the wall above the charger so the flashing light would appear on the adapter as if it were actually coming from the adapter itself. For this iteration I focused on the flashing of the adapter to signal when the charging was complete.
 
 ![Device sketch](https://user-images.githubusercontent.com/45234433/132160039-8d4fb259-f987-498f-8200-1c83500e6172.jpg)
 
 
 \*\***Include sketches of what your device might look like here.**\*\*
 
-N/A. I did not costume the device. The device would look the same as it does today with different capabilities.
+N/A. I did not costume the iphone to resemble a device. The device would look the same as it does today with different capabilities.
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 
-N/A. I did not costume the device. The device would look the same as it does today with different capabilities. People are familiar with the adapter cable setup for phone chargers and so it may be important to keep the same design. This would also enable other companies to incorporate a similar feature. 
+N/A. I did not costume the iphone to resemble a device. The device would look the same as it does today with different capabilities. People are familiar with the adapter cable setup for phone chargers and so it may be important to keep the same design. This would also enable other companies to incorporate a similar feature. 
 
 ## Part F. Record
 
@@ -128,11 +128,8 @@ https://user-images.githubusercontent.com/45234433/132157870-e6e1ba39-aa9f-4cb7-
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 
-This challenge of checking your phone while charging and thinking about ways that lighting could help in this situation was originally identified by Marvin Edmond during our in class group breakout room. As a group we then brainstormed the type of light notifications that could be incorporated.  
+This challenge of checking your phone while charging and thinking about ways that lighting could help in this situation was originally identified by Marvin Edmond during our in-class group breakout room. As a group we then brainstormed the type of light notifications that could be incorporated.  
 
-\*\***Reflections on the Process**\*\*
-
-This was a fun process. The biggest takeaway was that it is most helpful to spend time updating the storyboard of time particularly in creating and updating the storyboard. 
 
 # Staging Interaction, Part 2 
 
