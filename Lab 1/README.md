@@ -88,7 +88,7 @@ One new idea for displaying/communicating the battery percentage is having the l
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
 
-I was not able to get Tinkerbelle working on my mac. I was able to compelete all of the steps in terminal but the webpage never opened. 
+I was not able to get Tinkerbelle working on my mac. I was able to complete all of the steps in terminal but the webpage never opened. 
 
 ## Part D. Wizard the device 
 
