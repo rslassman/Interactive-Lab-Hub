@@ -87,7 +87,8 @@ One new idea was rather than having a snake light showing the battery percentage
 ## Part C. Prototype the device
 
 \*\***Give us feedback on Tinkerbelle.**\*\*
-I was not able to get tinkerbell working on my mac. I got through all of the steps in terminal but the webpage never opened. 
+
+I was not able to get Tinkerbelle working on my mac. I was able to compelete all of the steps in terminal but the webpage never opened. 
 
 ## Part D. Wizard the device 
 
@@ -98,9 +99,9 @@ https://user-images.githubusercontent.com/45234433/132157817-2b72c533-4e2c-468f-
 
 \*\***Show the follow-up work here.**\*\*
 
-In this new interaction the goal is now for Lily to be notified at the battery percentage of her choosing (e.g. 60%) rather than 100%. 
+In this new interaction the goal is now for Lily to be notified at the battery percentage of her choosing (e.g. 60%) rather than 100%. This is incorporated by adding a new first step in which she sets the battery life goal when the phone is first plugged into the charger, before she leaves it to charge. 
 
-![Sotryboard: 60% battery life](https://user-images.githubusercontent.com/45234433/132157840-311912ca-4a56-4b56-a696-d90506f024c4.jpg)
+![Storyboard: 60% battery life](https://user-images.githubusercontent.com/45234433/132158816-6327f724-61c1-4a75-8569-67d2b0dc9e24.jpg)
 
 
 ## Part E. Costume the device
@@ -124,7 +125,7 @@ https://user-images.githubusercontent.com/45234433/132157870-e6e1ba39-aa9f-4cb7-
 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
 
-This challenge of checking your phone while charging and thinking about ways that lighting could help in this situation was originally developed by Marvin Edmond during our in class group breakout room. As a group we then brainstormed the type of light notifications that could be incorporated.  
+This challenge of checking your phone while charging and thinking about ways that lighting could help in this situation was originally identified by Marvin Edmond during our in class group breakout room. As a group we then brainstormed the type of light notifications that could be incorporated.  
 
 
 # Staging Interaction, Part 2 
