@@ -72,7 +72,7 @@ Rather than getting up or having to check the phone every few minutes to see the
 
 \*\***Summarize feedback you got here.**\*\*
 
-When we discussed this idea in the breakout room the feedback was positive and group members said it was a product they would be interested in. We also brainstormed additional features such as transforming the cord so it looks like a snake light, lighting up in proportion to the percentage charge of the phone for people who did not need to wait for 100%. Other ideas included the ability to personalize the colors and type of light that come on at the end (flashing, bright dimmed etc.)
+When we discussed this idea in the breakout room the feedback was positive and group members said it was a product they would be interested in. We also brainstormed additional features such as transforming the cable so it looks like a snake light, lighting up in proportion to the percentage charge of the phone for people who did not need to wait for 100%. Other ideas included the ability to personalize the colors and type of light that come on at the end (flashing, bright dimmed etc.)
 
 ## Part B. Act out the Interaction
 
@@ -106,7 +106,7 @@ In this new interaction the goal is now for Lily to be notified at the battery p
 
 ## Part E. Costume the device
 
-The parts of the device (adapter and cord) already exist, what is new is the ability for either or both the be illuminated. In this way I did not costume the device but hung the device behing the TV on the wall so the flashing light would appear on the adapter as if it were actually coming from the adapter itself. For this iteration I focused on the flashing of the adapter.
+The parts of the device (adapter and cable) already exist, what is new is the ability for either or both the be illuminated. In this way I did not costume the device but hung the device behing the TV on the wall so the flashing light would appear on the adapter as if it were actually coming from the adapter itself. For this iteration I focused on the flashing of the adapter.
 
 ![Device sketch](https://user-images.githubusercontent.com/45234433/132160039-8d4fb259-f987-498f-8200-1c83500e6172.jpg)
 
