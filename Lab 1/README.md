@@ -101,12 +101,15 @@ https://user-images.githubusercontent.com/45234433/132157817-2b72c533-4e2c-468f-
 
 In this new interaction the goal is now for Lily to be notified at the battery percentage of her choosing (e.g. 60%) rather than 100%. This is incorporated by adding a new first step in which she sets the battery life goal when the phone is first plugged into the charger, before she leaves it to charge. 
 
-![Storyboard: 60% battery life](https://user-images.githubusercontent.com/45234433/132158816-6327f724-61c1-4a75-8569-67d2b0dc9e24.jpg)
+![Storyboard: 60% battery life](https://user-images.githubusercontent.com/45234433/132160007-6a987799-9918-448f-aa11-0c7ae377d2c1.jpg)
 
 
 ## Part E. Costume the device
 
-The parts of the device (adapter and cord) already exist, what is new is the ability for either or both the be illuminated. In this way I did not costume the device but hung the device behing the TV on the wall so the flashing light would appear on the adapter as if it were actually coming from the adapter itself. 
+The parts of the device (adapter and cord) already exist, what is new is the ability for either or both the be illuminated. In this way I did not costume the device but hung the device behing the TV on the wall so the flashing light would appear on the adapter as if it were actually coming from the adapter itself. For this iteration I focused on the flashing of the adapter.
+
+![Device sketch](https://user-images.githubusercontent.com/45234433/132160039-8d4fb259-f987-498f-8200-1c83500e6172.jpg)
+
 
 \*\***Include sketches of what your device might look like here.**\*\*
 
@@ -127,6 +130,9 @@ https://user-images.githubusercontent.com/45234433/132157870-e6e1ba39-aa9f-4cb7-
 
 This challenge of checking your phone while charging and thinking about ways that lighting could help in this situation was originally identified by Marvin Edmond during our in class group breakout room. As a group we then brainstormed the type of light notifications that could be incorporated.  
 
+\*\***Reflections on the Process**\*\*
+
+This was a fun process. The biggest takeaway was that it is most helpful to spend time updating the storyboard of time particularly in creating and updating the storyboard. 
 
 # Staging Interaction, Part 2 
 
