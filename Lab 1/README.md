@@ -1,4 +1,4 @@
-![idd_lab1_pt2_storyboard](https://user-images.githubusercontent.com/45234433/133169884-3040cc33-5f30-4e13-a5cf-30c30f6951e6.jpg)
+
 
 
 # Staging Interaction
