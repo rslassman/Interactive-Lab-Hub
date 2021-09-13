@@ -138,9 +138,15 @@ This describes the second week's work for this lab activity.
 
 ## Prep (to be done before Lab on Wednesday)
 
-You will be assigned three partners from another group. Go to their github pages, view their videos, and provide them with reactions, suggestions & feedback: explain to them what you saw happening in their video. Guess the scene and the goals of the character. Ask them about anything that wasn’t clear. 
 
 \*\***Summarize feedback from your partners here.**\*\*
+
+Two classmates provided feedback:
+1. This was something they would like to use. 
+2. They highlighted the need/importance of being able to set the charging amount at which the device would alter the user (e.g. 25% rather than 100%). One use case given was a student is sometimes on campus and if their phone is dying they just need to charge their phone to the point that apple pay will work so they can take the subway home. 
+3. They suggested costuming the device to look like the converter to make the interaction feel more real. 
+
+
 
 ## Make it your own
 
@@ -150,3 +156,12 @@ Do last week’s assignment again, but this time:
 3) We will be grading with an emphasis on creativity. 
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
+
+Given the feedback our first change was costuming the device and showing more clearly in the video that the user can set the desired battery amount. To better show the importance of setting a desired battery threshold we used the use case given by our classmate in their feedback. Our new storyboard is included below.
+
+
+
+
+To costume the device we first experimented with ways to make the cord liight up (e.g. putting the cord inside of a plastic water bottle and the light underneath the bottle. However this did not look convincing so we transitioned to costuming the phone to look like the converter. We did this by wrapping the phone in sticky notes with only a small square visable (similar to the size of a converter. A picture of how we costumed the phone is shown below.
+
+
