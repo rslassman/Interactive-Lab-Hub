@@ -1,3 +1,4 @@
+![idd_lab1_pt2_storyboard](https://user-images.githubusercontent.com/45234433/133169884-3040cc33-5f30-4e13-a5cf-30c30f6951e6.jpg)
 
 
 # Staging Interaction
@@ -159,9 +160,10 @@ Do last week’s assignment again, but this time:
 
 Given the feedback our first change was costuming the device and showing more clearly in the video that the user can set the desired battery amount. To better show the importance of setting a desired battery threshold we used the use case given by our classmate in their feedback. Our new storyboard is included below.
 
-
+![idd_lab1_pt2_storyboard](https://user-images.githubusercontent.com/45234433/133169918-f011e9b2-5ea3-4712-b581-3d9e48d17fd0.jpg)
 
 
 To costume the device we first experimented with ways to make the cord liight up (e.g. putting the cord inside of a plastic water bottle and the light underneath the bottle. However this did not look convincing so we transitioned to costuming the phone to look like the converter. We did this by wrapping the phone in sticky notes with only a small square visable (similar to the size of a converter. A picture of how we costumed the phone is shown below.
 
+![idd_lab1_pt2_deviceCostume](https://user-images.githubusercontent.com/45234433/133170073-32a8a3b6-66a2-4c82-a4f9-0b2c9aa0878d.jpg)
 
