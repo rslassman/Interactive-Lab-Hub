@@ -144,7 +144,7 @@ This describes the second week's work for this lab activity.
 
 Two classmates provided feedback:
 1. This was something they would like to use. 
-2. They highlighted the need/importance of being able to set the charging amount at which the device would alter the user (e.g. 25% rather than 100%). One use case given was a student is sometimes on campus and if their phone is dying they just need to charge their phone to the point that apple pay will work so they can take the subway home. 
+2. They highlighted the need/importance of being able to set the charging amount at which the device would alert the user (e.g. 25% rather than 100%). One use case given was a student is sometimes on campus and if their phone is dying they just need to charge their phone to the point that apple pay will work so they can take the subway home. 
 3. They suggested costuming the device to look like the converter to make the interaction feel more real. 
 
 
@@ -158,12 +158,26 @@ Do last week’s assignment again, but this time:
 
 \*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
 
-Given the feedback our first change was costuming the device and showing more clearly in the video that the user can set the desired battery amount. To better show the importance of setting a desired battery threshold we used the use case given by our classmate in their feedback. Our new storyboard is included below.
+Given the feedback we recieved, our first change was costuming the device and showing more clearly in the video that the user can set the desired battery amount. To better show the importance of setting a desired battery threshold we used the use case given by our classmate. In the new scenario, Marvin is studying late in Tata and when he wants to leave realizes his phone does not have enough battery to get him home (apple pay to get on the subway and google maps to get home). His phone is at 20% and only needs 25% to get home so he plugs his phone into the outlet across the room using his Illuminated Phone Charger and sets the battery goal to 25%. He goes back to his desk and keeps on working on his assignment until the converter glows purple alerting him that his phone has finished charging. This new storyboard is included below.
 
 ![idd_lab1_pt2_storyboard](https://user-images.githubusercontent.com/45234433/133169918-f011e9b2-5ea3-4712-b581-3d9e48d17fd0.jpg)
 
 
-To costume the device we first experimented with ways to make the cord liight up (e.g. putting the cord inside of a plastic water bottle and the light underneath the bottle. However this did not look convincing so we transitioned to costuming the phone to look like the converter. We did this by wrapping the phone in sticky notes with only a small square visable (similar to the size of a converter. A picture of how we costumed the phone is shown below.
+To costume the device we first experimented with ways to make the cord light up (e.g. putting the cord inside of a plastic water bottle and the light underneath the bottle). However this did not look convincing so we transitioned to costuming the phone to look like the converter. We did this by wrapping the phone in sticky notes with only a small square visable to resemble a converter. A picture of how we costumed the phone is shown below.
 
 ![idd_lab1_pt2_deviceCostume](https://user-images.githubusercontent.com/45234433/133170073-32a8a3b6-66a2-4c82-a4f9-0b2c9aa0878d.jpg)
+
+The final video of this interaction is included below. We used the built in calculator app as an example of a user interface that would allow users of the Illuminated Phone Charger to set the charging goal.
+
+
+https://user-images.githubusercontent.com/45234433/133187878-af85789b-5995-4e24-8d8e-2725dcf16ab2.mp4
+
+
+We also experimented with an alternative interaction where instead of the converter glowing purple when the charging goal is met, the cord moves. In this example  the phone is at 73% and the user would like to be notified once it reaches 75%. 
+
+
+
+https://user-images.githubusercontent.com/45234433/133188548-38b34ad7-e3cb-4ec7-8b88-007527fb2a80.mp4
+
+
 
