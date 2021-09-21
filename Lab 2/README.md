@@ -191,7 +191,7 @@ After that, Git will ask you to login to your GitHub account to push the updates
 ## Make a short video of your modified barebones PiClock
 
 
-Lab 2/IDD_Lab2_pt1_compressed.mov
+https://user-images.githubusercontent.com/45234433/134102205-139c0982-f3d1-4e85-b182-2b1649c65bb3.mp4
 
 
 ## Part G. 
