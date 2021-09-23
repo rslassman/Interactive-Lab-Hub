@@ -195,12 +195,24 @@ https://user-images.githubusercontent.com/45234433/134102205-139c0982-f3d1-4e85-
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
 
+For further itneractions and features I considered displaying a picture for the season and icons for the time of year. 
+
 
 # Prep for Part 2
 
 1. Pick up remaining parts for kit.
 
 2. Look at and give feedback on the Part G. for at least 2 other people in the class (and get 2 people to comment on your Part G!)
+
+**Feedback and revision**I got a lot of helpful and interesting feedback during class on thursday. First was that the clock needed more context. I should make the audience more clear and then build a clock that is more specifically targeting them and their needs. Second the clock was still a little too literal and I should find a way to make it ore playful. Alexandra recommended making a clock that was for nature lovers and people who wanted to feel calm and closer to nature when they looked at their clock. To acheive this she recommended including riddles for the season instead of just listing the season, facts about things that happened in nature on that day, and another classmate recommnded including pictures of the season. I loved this idea becasue personally, looking at a clock can often lead to a lot of stress and anxiety (e.g. I am running late, or running out of time, or have a lot of time to kill etc.).
+
+I built on this idea by making a clock for people who love word puzzles. The idea is that for people who love word puzzles, instead of feeling anxious when they look at their clock, it is an opportunity to take a really short break from whatever they are working on, clear their head a little, feel a little boost of fun/joy and also get the information they needed. 
+
+The idea for the clock is that by pushing the top button the user will see a riddle where the answer is the month and by pushing the bottom button the user will see a word search where the answers spell out the time and the user can look at the word search and find the answers in the puzzle. 
+
+![IDD_Lab2_pt2_sketch](https://user-images.githubusercontent.com/45234433/134537718-1464a5ff-295d-4293-9c36-d02f28971593.jpg)
+
+
 
 # Lab 2 Part 2
 
