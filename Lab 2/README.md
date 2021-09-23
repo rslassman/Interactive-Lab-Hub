@@ -172,6 +172,8 @@ Does time have to be linear?  How do you measure a year? [In daylights? In midni
 
 Can you make time interactive? You can look in `screen_test.py` for examples for how to use the buttons.
 
+I created a clock that communicates time based on time of year and time of day. It also provides reminders/recommendations for the user based on the time of day. The top button controls the time of year, the bottom button time of day and both buttons together the notice. 
+
 **We strongly discourage and will reject the results of literal digital or analog clock display.**
 
 \*\*\***A copy of your code should be in your Lab 2 Github repo.**\*\*\*
