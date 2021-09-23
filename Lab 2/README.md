@@ -168,11 +168,7 @@ Now you should be able to edit python scripts with Thonny on your Pi.
 ## Part E.
 ### Modify the barebones clock to make it your own
 
-Does time have to be linear?  How do you measure a year? [In daylights? In midnights? In cups of coffee?](https://www.youtube.com/watch?v=wsj15wPpjLY)
-
-Can you make time interactive? You can look in `screen_test.py` for examples for how to use the buttons.
-
-I created a clock that communicates time based on time of year and time of day. It also provides reminders/recommendations for the user based on the time of day. The top button controls the time of year, the bottom button time of day and both buttons together the notice. 
+Description: I tried to create a clock that communicates time by displaying the time of year and time of day. It also provides reminders/recommendations for the user based on the time of day. Pressing the top button displays the time of year, pressing the bottom button displays the time of day and pressing both buttons together display the note. 
 
 **We strongly discourage and will reject the results of literal digital or analog clock display.**
 
