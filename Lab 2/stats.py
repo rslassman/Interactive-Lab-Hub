@@ -76,16 +76,18 @@ while True:
     USD = "$1USD = ₪" + subprocess.check_output(cmd, shell=True).decode("utf-8") + "ILS"
     cmd = "cat /sys/class/thermal/thermal_zone0/temp |  awk '{printf \"CPU Temp: %.1f C\", $(NF-0) / 1000}'" 
     Temp = subprocess.check_output(cmd, shell=True).decode("utf-8")
+    fun1 = "Hi Adam, are you.."
+    fun2 = "coming to the lib??"
 
     # Write four lines of text.
     y = top
     draw.text((x, y), IP, font=font, fill="#FFFFFF")
-    y += font.getsize(IP)[1]
-    draw.text((x, y), WTTR, font=font, fill="#FFFF00")
-    y += font.getsize(WTTR)[1]
-    draw.text((x, y), USD, font=font, fill="#0000FF")
-    y += font.getsize(USD)[1]
-    draw.text((x, y), Temp, font=font, fill="#FF00FF")
+    #y += font.getsize(WTTR)[1]
+    #draw.text((x, y), IP, font=font, fill="#FFFF00")
+    #y += font.getsize(WTTR)[1]
+    #draw.text((x, y), USD, font=font, fill="#0000FF")
+    #y += font.getsize(USD)[1]
+    #draw.text((x, y), Temp, font=font, fill="#FF00FF")
 
     # Display image.
     disp.image(image, rotation)
