@@ -168,7 +168,7 @@ Now you should be able to edit python scripts with Thonny on your Pi.
 ## Part E.
 ### Modify the barebones clock to make it your own
 
-Description: I tried to create a clock that communicates time by displaying the time of year and time of day. It also provides reminders/recommendations for the user based on the time of day. Pressing the top button displays the time of year, pressing the bottom button displays the time of day and pressing both buttons together display the note. 
+Description: I tried to create a clock that communicates time by displaying the time of year and time of day. It also provides reminders/recommendations for the user based on the time of day. Pressing the top button displays the season on a color background that relates to the season, pressing the bottom button displays the time of day (morning, afternoon etc.) on a color that relates to that time of day, and pressing both buttons together displays a note (e.g. eat breakfast). 
 
 **We strongly discourage and will reject the results of literal digital or analog clock display.**
 
@@ -195,7 +195,11 @@ https://user-images.githubusercontent.com/45234433/134102205-139c0982-f3d1-4e85-
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
 
-For further itneractions and features I considered displaying a picture for the season and icons for the time of year. 
+For further interactions and features I considered displaying a picture for the season and icons for the time of day. Pictures would make the user feel more engaged with the device and may even help inspire more imagination/creativity. 
+
+
+![IDD_Lab2_pt1_sketch](https://user-images.githubusercontent.com/45234433/134818087-9dab7038-ca8c-439f-ba01-f8c35fdb5633.jpg)
+
 
 
 # Prep for Part 2
@@ -204,9 +208,12 @@ For further itneractions and features I considered displaying a picture for the 
 
 2. Look at and give feedback on the Part G. for at least 2 other people in the class (and get 2 people to comment on your Part G!)
 
-**Feedback and revision**I got a lot of helpful and interesting feedback during class on thursday. First was that the clock needed more context. I should make the audience more clear and then build a clock that is more specifically targeting them and their needs. Second the clock was still a little too literal and I should find a way to make it ore playful. Alexandra recommended making a clock that was for nature lovers and people who wanted to feel calm and closer to nature when they looked at their clock. To acheive this she recommended including riddles for the season instead of just listing the season, facts about things that happened in nature on that day, and another classmate recommnded including pictures of the season. I loved this idea becasue personally, looking at a clock can often lead to a lot of stress and anxiety (e.g. I am running late, or running out of time, or have a lot of time to kill etc.).
+**Feedback and revision**I recieved a lot of helpful and interesting feedback during class on Thursday. 
+1. First reviewers, felt that the clock needed more context. I should make the audience more clear and then build a clock that is more specifically targeting those specific users and their needs. One example given by Alexandra (TA) might be making a clock for nature lovers and people who wanted to feel calm and closer to nature when they looked at their clock.
+2. Second the clock was still too literal and I should find a way to make it more playful. Keeping the nature lover clock example to make it more playful this I could think about including riddles for the season instead of just listing the season and facts about things that happened in nature on that day. Another classmate recommnded including pictures of the season. 
+3. I loved this idea of making the clock playful becasue personally, looking at a clock can often lead to a lot of stress and anxiety (e.g. I am running late, or running out of time, or have a long time to wait etc.) and while it is important to have a clock that just tells the time when you are in a rush, having a more playful clock for other times might reduce that stressful feeling. 
 
-I built on this idea by making a clock for people who love word puzzles. The idea is that for people who love word puzzles, instead of feeling anxious when they look at their clock, it is an opportunity to take a really short break from whatever they are working on, clear their head a little, feel a little boost of fun/joy and also get the information they needed. 
+I built on this idea by making a clock for people who love word puzzles. The idea is that for people who love word puzzles, instead of feeling anxious when they look at their clock, it is an opportunity to take a really short break from whatever they are working on, clear their mind, get a boost of fun/joy and also get a sense of time. 
 
 The idea for the clock is that by pushing the top button the user will see a riddle where the answer is the month and by pushing the bottom button the user will see a word search where the answers spell out the time and the user can look at the word search and find the answers in the puzzle. 
 
