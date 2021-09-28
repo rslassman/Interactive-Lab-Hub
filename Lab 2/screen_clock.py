@@ -97,7 +97,7 @@ while True:
     draw.text((x, y), both, font=font, fill="#8A2BE2")
     
     #set info for top button - month word scramble
-    month = int(strftime("%M"))
+    month = int(strftime("%m"))
     if month == 1:
         scramble = 'UJRNAAY'
     elif month == 2:
