@@ -209,12 +209,8 @@ For further interactions and features I considered displaying a picture for the 
 
 # Prep for Part 2
 
-1. Pick up remaining parts for kit on Thursday lab class. Check the updated [parts list inventory](partslist.md) and let the TA know if there is any part missing.
-  
-
-2. Look at and give feedback on the Part G. for at least 2 other people in the class (and get 2 people to comment on your Part G!)
-
-**Feedback and revision**I recieved a lot of helpful and interesting feedback during class on Thursday. 
+**Feedback and revision**
+I recieved a lot of helpful and interesting feedback during class on Thursday. 
 1. First reviewers, felt that the clock needed more context. I should make the audience more clear and then build a clock that is more specifically targeting those specific users and their needs. One example given by Alexandra (TA) might be making a clock for nature lovers and people who wanted to feel calm and closer to nature when they looked at their clock.
 2. Second the clock was still too literal and I should find a way to make it more playful. Keeping the nature lover clock example to make it more playful this I could think about including riddles for the season instead of just listing the season and facts about things that happened in nature on that day. Another classmate recommnded including pictures of the season. 
 3. I loved this idea of making the clock playful becasue personally, looking at a clock can often lead to a lot of stress and anxiety (e.g. I am running late, or running out of time, or have a long time to wait etc.) and while it is important to have a clock that just tells the time when you are in a rush, having a more playful clock for other times might reduce that stressful feeling. 
@@ -229,15 +225,8 @@ The idea for the clock is that by pushing the top button the user will see a rid
 
 # Lab 2 Part 2
 
-Pull Interactive Lab Hub updates to your repo.
-
-Modify the code from last week's lab to make a new visual interface for your new clock. You may [extend the Pi](Extending%20the%20Pi.md) by adding sensors or buttons, but this is not required.
-
-As always, make sure you document contributions and ideas from others explicitly in your writeup.
-
-You are permitted (but not required) to work in groups and share a turn in; you are expected to make equal contribution on any group work you do, and N people's group project should look like N times the work of a single person's lab. What each person did should be explicitly documented. Make sure the page for the group turn in is linked to your Interactive Lab Hub page. 
-
-**Description** For the final clock I stayed with the puzzle theme. The goal for the clock is to be a fun and interactive activity for people who enjoy puzzles, not for people who need to know the exact time of day/date. For the top button displaying the time of the year (i.e. month) I created a word scramble of the month (e.g. "UJRNAAY" for January). The word scramble is displayed on a black background and white letters to make the letters stand out. For the bottom button displaying the time of day, I created three "times of day" categories - morning, afternoon, evening - and a word search for each time of day with words related to that time of day. Pressing the bottom button displays a picture of this word search. Finally the when both buttons are pressed, the clock displays other puzzles that might be fun for the users, such as a crossword puzzle or a sudoku. 
+**Description** For the final clock I stayed with the puzzle theme but made changes from the sketch. The changes were made to  The goal for the clock is to be a fun and interactive activity for people who enjoy puzzles to use as a way to get a general idea of the time and to take a break and clear their mind of the task they are working on. It is not for people who need to know the exact time of day/date. The first screen displays the name of the clock "puzzle clock" and the output of the buttons. For the top button displaying the time of the year (i.e. month) I created a word scramble of the month (e.g. "UJRNAAY" for January). The word scramble is displayed on a black background and white letters to make the letters stand out. For the bottom button displaying the time of day, I created three "times of day" categories - morning, afternoon, evening - and a word search for each time of day with words related to that time of day. For example the word search for morning included words such as "sunrise", "coffee", "awake", the afternoon word search includes "lunch", "break", "focus", and evening includes words such as "dinner", "sleep" and "dreams". Pressing the bottom button displays a picture of this word search. Finally when both buttons are pressed, the clock recommends other puzzles that might be fun for the user, such as a crossword puzzle or a sudoku. 
 
 **Video**
-
+A video of the puzzle clock can be viewed at the youtube link below. The code is saved in "screen_clock.py"
+https://youtu.be/z7ImsSojnfI
