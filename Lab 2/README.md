@@ -237,4 +237,7 @@ As always, make sure you document contributions and ideas from others explicitly
 
 You are permitted (but not required) to work in groups and share a turn in; you are expected to make equal contribution on any group work you do, and N people's group project should look like N times the work of a single person's lab. What each person did should be explicitly documented. Make sure the page for the group turn in is linked to your Interactive Lab Hub page. 
 
+**Description** For the final clock I stayed with the puzzle theme. The goal for the clock is to be a fun and interactive activity for people who enjoy puzzles, not for people who need to know the exact time of day/date. For the top button displaying the time of the year (i.e. month) I created a word scramble of the month (e.g. "UJRNAAY" for January). The word scramble is displayed on a black background and white letters to make the letters stand out. For the bottom button displaying the time of day, I created three "times of day" categories - morning, afternoon, evening - and a word search for each time of day with words related to that time of day. Pressing the bottom button displays a picture of this word search. Finally the when both buttons are pressed, the clock displays other puzzles that might be fun for the users, such as a crossword puzzle or a sudoku. 
+
+**Video**
 
