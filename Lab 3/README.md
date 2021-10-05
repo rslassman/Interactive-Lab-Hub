@@ -105,7 +105,8 @@ Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stu
 
 **Problem:** Baking bread in the oven usually takes several hours and includes multiple rises at different lengths of time and different temperatures. Not only can it be difficult to keep track of the rises and temperatures, ovens that beep both to indicate time and tempuratue changes can be confusing. The smart oven device sketched below would allow the user to enter in the oven related steps and the smart oven would then speak out the steps at each point rather than simply beeping to notify the user without any indication of what the beeping signifies. The issue of not understanding the meaning of the beeps is even more pronounced in settings where there are two ovens (e.g. roasting a chicken in the top oven and making bread in the bottom oven).
 
-![Lab3_pt1_storyboard](https://user-images.githubusercontent.com/45234433/136106857-f8db5456-84b6-4cef-a6e7-239fa0a572e6.jpg)
+![Lab3_pt1_storyboard](https://user-images.githubusercontent.com/45234433/136108662-15edaba5-1459-49d5-98a3-ec02c81f9ccc.jpg)
+
 
 Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
 
