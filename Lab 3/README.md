@@ -102,8 +102,26 @@ From a remote browser on the same network, check to make sure your webserver is 
 Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stuck? Make a device that talks for dogs. If that is too stupid, find an application that is better than that.) 
 
 \*\***Post your storyboard and diagram here.**\*\*
+**Problem:** Baking bread in the oven usually takes several hours and includes multiple rises at different lengths of time and different temperatures. Not only can it be difficult to keep track of the rises and temperatures, ovens that beep both to indicate time and tempuratue changes can be confusing. The smart oven device sketched below would allow the user to read in the baking instructions and the smart oven would then speak out the steps rather than simply beeping. The issue of not understanding the meaning of the beeps is even more pronounced in settings where there are two ovens (e.g. roasting a chicken in the top oven and making bread in the bottom oven).
 
 Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
+
+**Dialogue:**
+
+User: [looks at recipie] Today I am going to bake a loaf of bread. This requires 4 steps in the oven. 
+Let me start by entering these steps into the over interface [types in steps]. 
+- Step 1: Proof yeast. Set oven to proofing and proof for 5 - 10 minutes
+- Stpe 2: First rise. Set oven to proofing and let rise for 1.5 hours
+- Step 3: Second rise. Set oven to proofing and let rise for 45 minutes - 1 hour
+- Step 4: Bake. Set oven to 350 and bake for 30 - 35 minutes.
+
+Device: Ok, so today we are going to make bread in the top oven. First we will proof the yeast, then rise one, rise two and lastly bake the loaf. The oven will be ready for proofing in 1 minute.
+
+Device: Oven is ready for proofing yeast, timer is set for 5 minutes. [when the oven door shuts after the user puts in the yeast, the timer begins].
+
+Device: 
+
+
 
 \*\***Please describe and document your process.**\*\*
 
