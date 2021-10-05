@@ -103,7 +103,69 @@ Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stu
 
 \*\***Post your storyboard and diagram here.**\*\*
 
+**Problem:** Baking bread in the oven usually takes several hours and includes multiple rises at different lengths of time and different temperatures. Not only can it be difficult to keep track of the rises and temperatures, ovens that beep both to indicate time and tempuratue changes can be confusing. The smart oven device sketched below would allow the user to enter in the oven related steps and the smart oven would then speak out the steps at each point rather than simply beeping to notify the user without any indication of what the beeping signifies. The issue of not understanding the meaning of the beeps is even more pronounced in settings where there are two ovens (e.g. roasting a chicken in the top oven and making bread in the bottom oven).
+
+![Lab3_pt1_storyboard](https://user-images.githubusercontent.com/45234433/136108662-15edaba5-1459-49d5-98a3-ec02c81f9ccc.jpg)
+
+
 Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
+
+**Dialogue:**
+
+User: [looks at recipie] Today I am going to bake a loaf of bread. This requires 4 steps in the oven. 
+Let me start by entering these steps into the over interface [types in steps]. 
+- Step 1: Proof yeast. Set oven to proofing and proof for 5 - 10 minutes
+- Stpe 2: First rise. Set oven to proofing and let rise for 1.5 hours
+- Step 3: Second rise. Set oven to proofing and let rise for 45 minutes - 1 hour
+- Step 4: Bake. Set oven to 350 and bake for 30 - 35 minutes.
+- Take bread out of oven to cool.
+
+Device: Ok. Today we are going to make bread in the top oven. First we will proof the yeast, then do the first rise, then the second rise and lastly bake the loaf. The oven will be ready for proofing in 1 minute.
+
+Device: The oven is ready for proofing the yeast, and timer is set for 5 minutes. Place the yeast in the oven and close the oven door to start the timer. 
+
+User: [places loaf in the oven and closes the door]
+
+Device: Step one proofing yeast for 5 minutes is complete. Press yes to add 5 more minutes, or no to finish this step and move on to the next step. 
+
+User: [presses no]
+
+   Alternative | User: [presses yes]
+                 Device: 5 more minutes have been added to the timer. [after 5 minutes] Step one proofing yeast for 10 minutes is complete.
+
+Device: The oven is ready for the first rise and the timer is set for one hour and thirty minutes hours. Place the bread in the oven and close the oven door to start the timer. 
+
+User: [places loaf in the oven and closes the door]
+
+Device: Step two letting the bread rise for one hour and thirty minutes is complete. Press yes to add 5 more minutes, or no to finish this step and move on to the next step.
+
+User: [presses no]
+
+   Alternative | User: [presses yes]
+                 Device: 5 more minutes have been added to the timer. [after 5 minutes]. Step two letting the bread rise for one hour and thirty-five minutes is complete.
+
+
+Device: The oven is ready for the second rise and the timer is set for 45 minutes. Place the bread in the oven and close the oven door to start the timer. 
+
+User: [places loaf in the oven and closes the door]
+
+Device: Step three letting the bread rise for a second time for  45 minutes is complete. Press yes to add 15 more minutes, or no to finish this step and move on to the next step.
+
+User: [presses no]
+   
+   Alternative | User: [presses yes]
+                 Device: 15 more minutes have been added to the timer. [after 15 minutes]. Step three letting the bread rise for a second time for one hour is complete.
+
+Device: The oven is ready to begin baking the bread. The temperature has reached 375 farenheight and the timer is set for 30 minutes. Place the bread in the oven and close the oven door to start the timer. 
+
+User: [places loaf in the oven and closes the door]
+
+Device: Step four baking the bread for 30 minutes is complete. Press yes to add 5 more minutes, or no to finish this step take the bread out of the over to cool.
+
+User: [presses no and takes loaf out to cool]
+   
+   Alternative | User: [presses yes]
+                 Device: 5 more minutes have been added to the timer. [after 15 minutes]. Step four baking the bread for 35 minutes is complete.
 
 \*\***Please describe and document your process.**\*\*
 
