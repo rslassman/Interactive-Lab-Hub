@@ -175,12 +175,10 @@ A recoding of the video can be viewed on youtube with this link: https://youtu.b
 
 \*\***Describe if the dialogue seemed different than what you imagined when it was acted out, and how.**\*\*
 
-It was hard to act out the interaction pretending to be an oven and thinking through how to act as one. It was also hard to start the interaction becasue it needs to be initiated by the user and my partner was not sure how to start nor was I. Once we got started it got easier. The dialogue was similar to what I pictured, the biggest difference being that when acting, everything moved much faster and descisions were made more quickly with less time to consider the options. For example I (as the device) was too slow to offer the option to extend the time, my partner had already moved on to the next step.
+It was hard to act out the interaction. It was also hard to start the interaction becasue it needs to be initiated by the user and my partner was not sure how to start nor was I. Once we got started it got easier. The dialogue was similar to what I pictured, the biggest difference being that when acting, everything moved much faster and descisions were made more quickly with less time to consider the options. For example I (as the device) was too slow to offer the option to extend the time, my partner had already moved on to the next step.
 
 ### Wizarding with the Pi (optional)
 In the [demo directory](./demo), you will find an example Wizard of Oz project. In that project, you can see how audio and sensor data is streamed from the Pi to a wizard controller that runs in the browser.  You may use this demo code as a template. By running the `app.py` script, you can see how audio and sensor data (Adafruit MPU-6050 6-DoF Accel and Gyro Sensor) is streamed from the Pi to a wizard controller that runs in the browser `http://<YouPiIPAddress>:5000`. You can control what the system says from the controller as well!
-
-\*\***Describe if the dialogue seemed different than what you imagined, or when acted out, when it was wizarded, and how.**\*\*
 
 # Lab 3 Part 2
 
@@ -189,7 +187,13 @@ For Part 2, you will redesign the interaction with the speech-enabled device usi
 ## Prep for Part 2
 
 1. What are concrete things that could use improvement in the design of your device? For example: wording, timing, anticipation of misunderstandings...
+- In part one of the lab I focused on design. My focus for part two is prototyping with the pi, sensors, and oven to make it feel more realistic. 
+- Speech should be more fluid and a little bit faster
+- Should be an option to overide/stop the system if the user makes a mistake in the process or wants to change the process they set out.
+
 2. What are other modes of interaction _beyond speech_ that you might also use to clarify how to interact?
+- Add in a song/sound/light that alerts the user that their about to be ready to move on to the next step. In reality people do not usually wait in the kitchen for entire 2+ hour process, so a 'heads up' notification could help.
+
 3. Make a new storyboard, diagram and/or script based on these reflections.
 
 ## Prototype your system
