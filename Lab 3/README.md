@@ -225,17 +225,22 @@ Answer the following:
 
 ### What worked well about the system and what didn't?
 \*\**your answer here*\*\*
+hard to really get the 
+
+Worked well: 1) the text to speech and speech to text, including how the device was situated, made the device clear and easy to understand. 2) the modularity of the files was also helpful. This allowed for the person controlling the device to easily repeat certain portions when the user wanted to hear those steps again.
+
+What didnt work well: In reality the process being simulated takes several hours and has several steps. It was hard to truly replicate that same environment in a short amount of time.
 
 ### What worked well about the controller and what didn't?
 
-\*\**your answer here*\*\*
+It was great to be able to control the device out of sight. It was less confusing for people interacting with the device becasue their attention was not directed at the computer/pi. 
 
 ### What lessons can you take away from the WoZ interactions for designing a more autonomous version of the system?
 
-\*\**your answer here*\*\*
+Timing is extremley important. With the WoZ the interaction felt choppy and less natural, so any ability to make the interactions flow more smoothly would be helpful. Building in more flexability to let users ask off script questions (which in this version were directed to the person controlling the device) would be helpful in a more autonomous system. 
 
 
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
-Movement might be interesting to capture. To see how many times the user goes near the oven (for instance to look at the bread while it is rizing) in the middle of a step. It would also be interesting to see if the user came down right at the two minute warning or if they wait until the final anouncement at the end of the step (or later!). 
+Movement might be interesting to capture. For instance to see how many times the user goes near the oven (for instance to look at the bread while it is rizing) in the middle of a step. It would also be interesting to see if the user came down right at the two minute warning or if they wait until the final anouncement at the end of the step (or later!). Finally, it would be interesting to track common recipies and common adjustments to them, and then save those adjustments for the next time that recipie is used by the user, or recommend those changes to other users of that recipie (e.g. if it really need to bake for 35 minutes at 375 rather than 30).
 
