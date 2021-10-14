@@ -212,10 +212,7 @@ The system should:
 * use one or more sensors
 * require participants to speak to it. 
 
-*Document how the system works*
-The pi and microphone/speaker were sitting in a metal pot ontop of the oven. They were being controlled by a laptop on the other side of the room. 
-
-While I was not able to incorporate them, I think this system could also the green and red buttons as shown in the sketch to allow the user to start and paus/stop the process. 
+*Document how the system works*: The pi and microphone/speaker were sitting in a metal pot ontop of the oven. They were being controlled by a laptop on the other side of the room. While I was not able to incorporate them, I think this system could also incorporate the green and red buttons as shown in the sketch to allow the user to start and pause/stop the process. 
 
 *Include videos or screencaptures of both the system and the controller.*
 
