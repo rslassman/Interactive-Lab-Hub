@@ -103,7 +103,7 @@ Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stu
 
 \*\***Post your storyboard and diagram here.**\*\*
 
-**Problem:** Baking bread in the oven usually takes several hours and includes multiple rises at different lengths of time and different temperatures. Not only can it be difficult to keep track of the rises and temperatures, ovens that beep both to indicate time and tempuratue changes can be confusing. The smart oven device sketched below would allow the user to enter in the oven related steps and the smart oven would then speak out the steps at each point rather than simply beeping to notify the user without any indication of what the beeping signifies. The issue of not understanding the meaning of the beeps is even more pronounced in settings where there are two ovens (e.g. roasting a chicken in the top oven and making bread in the bottom oven).
+**Problem:** Baking bread in the oven usually takes several hours and includes multiple rises at different lengths of time and different temperatures. Not only can it be difficult to keep track of the rises and temperatures, ovens that beep both to indicate time and tempuratue changes can be confusing. The smart oven device sketched below would allow the user to enter in the oven related steps and the smart oven would then speak out the steps at each point rather than simply beeping to notify the user without any indication of what the beeping signifies. Each step would begin when the user put the bowl/loaf in the oven (door sensor) and end when the timer for that step goes off (fail safe so nothing burns if the user does not take the loaf out in time). The issue of not understanding the meaning of the beeps is even more pronounced in settings where there are two ovens (e.g. roasting a chicken in the top oven and making bread in the bottom oven).
 
 ![Lab3_pt1_storyboard](https://user-images.githubusercontent.com/45234433/136108662-15edaba5-1459-49d5-98a3-ec02c81f9ccc.jpg)
 
@@ -186,15 +186,23 @@ For Part 2, you will redesign the interaction with the speech-enabled device usi
 
 ## Prep for Part 2
 
+The following updates are based on feedback from partners and class peer reviewers:
+
 1. What are concrete things that could use improvement in the design of your device? For example: wording, timing, anticipation of misunderstandings...
 - In part one of the lab I focused on design. My focus for part two is prototyping with the pi, sensors, and oven to make it feel more realistic. 
 - Speech should be more fluid and a little bit faster
 - Should be an option to overide/stop the system if the user makes a mistake in the process or wants to change the process they set out.
+- Device should promt user for recipie to begin interaction.
 
 2. What are other modes of interaction _beyond speech_ that you might also use to clarify how to interact?
-- Add in a song/sound/light that alerts the user that their about to be ready to move on to the next step. In reality people do not usually wait in the kitchen for entire 2+ hour process, so a 'heads up' notification could help.
+- Add in another interaction that alerts the user that they are almost ready to move on to the next step. In reality people do not usually wait in the kitchen for entire 2+ hour process, so a 'heads up' notification could help.
 
 3. Make a new storyboard, diagram and/or script based on these reflections.
+
+[Lab3_storyboard2.pdf](https://github.com/rslassman/Interactive-Lab-Hub/files/7342601/Lab3_storyboard2.pdf)
+
+![Lab3_sketch](https://user-images.githubusercontent.com/45234433/137242917-5d1d8d3c-93bc-4e6c-8e9d-d1c27abf5766.jpg)
+
 
 ## Prototype your system
 
@@ -204,8 +212,13 @@ The system should:
 * require participants to speak to it. 
 
 *Document how the system works*
+The pi and microphone/speaker were sitting in a metal pot ontop of the oven. They were being controlled by a laptop on the other side of the room. 
+
+While I was not able to incorporate them, I think this system could also the green and red buttons as shown in the sketch to allow the user to start and paus/stop the process. 
 
 *Include videos or screencaptures of both the system and the controller.*
+
+See video of the interaction here: https://youtu.be/IRbRT5uGjVg
 
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
@@ -226,5 +239,5 @@ Answer the following:
 
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
-\*\**your answer here*\*\*
+Movement might be interesting to capture. To see how many times the user goes near the oven (for instance to look at the bread while it is rizing) in the middle of a step. It would also be interesting to see if the user came down right at the two minute warning or if they wait until the final anouncement at the end of the step (or later!). 
 
