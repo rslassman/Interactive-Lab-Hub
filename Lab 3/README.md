@@ -199,9 +199,10 @@ The following updates are based on feedback from partners and class peer reviewe
 
 3. Make a new storyboard, diagram and/or script based on these reflections.
 
-[Lab3_storyboard2.pdf](https://github.com/rslassman/Interactive-Lab-Hub/files/7342601/Lab3_storyboard2.pdf)
+<img width="869" alt="Lab3_storyboard2" src="https://user-images.githubusercontent.com/45234433/137247272-5d5cb957-e38b-487c-a7e0-ee918a568863.png">
 
-![Lab3_sketch](https://user-images.githubusercontent.com/45234433/137242917-5d1d8d3c-93bc-4e6c-8e9d-d1c27abf5766.jpg)
+<img width="522" alt="Lab3_sketch" src="https://user-images.githubusercontent.com/45234433/137247287-169aa69f-7576-4f31-bfcf-17195b06c105.png">
+
 
 
 ## Prototype your system
