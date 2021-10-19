@@ -163,12 +163,25 @@ Usually, sensors need to positioned in specific locations or orientations to mak
 
 ![gesture_sensor_sketches3](https://user-images.githubusercontent.com/45234433/137959319-d3ed8a83-1ce4-483c-a269-e919c0fa8def.jpg)
 
-![rotary_encoder_sketch](https://user-images.githubusercontent.com/45234433/137959271-be9ce479-a9b3-4a51-b391-d9593de7c59d.jpg)
+![rotary_encoder_sketch](https://user-images.githubusercontent.com/45234433/137959271-be9ce479-a9b3-4a51-b391-d9593de7c59d.jpg) (window not to scale)
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
+1. How close do the gestures need to be to the sensor in order to be picked up? 
+2. If I put the sensor behind a thin surface will gestures still be picked up?
+3. How significant do gestures need to be be picked up by the sensor?
+4. How durable are the sensors? (if it was on a bike that fell over would it break? if it was under a surface that someone stepped on would it break?)
+5. Does it only pick up hand motions? what other getsures will it pick up?
+
+To answer all of these questions requires physically testing the sensor and seeing what it can do. 
+
 **\*\*\*Pick one of these designs to prototype.\*\*\***
 
+I am goig to prototype the gesture to directions/instructions. The idea for this device it to be very minimalist. It will only show very bare bones directions (left, right straght, backwards) listed in order. The reason for the minimalism is becasue it will be most useful when people are in a rush/in the middle of something. Some possible scenarios include:
+- a tourist is lost and asks someone on the street for directions
+- a worker on a loud construction site is telling another worker how to get somewhere/where to drive 
+- a person during a play asks the usher for directions to their seat/to the bathroom
+- a soldier needs to give directions but can't make any noise
 
 ### Part D
 ### Physical considerations for displaying information and housing parts
