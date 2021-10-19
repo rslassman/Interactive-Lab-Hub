@@ -226,8 +226,8 @@ Think about how you want to present the information about what your sensor is se
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
 1. Becasue the sensor is directional the design needs to tell the user te correct way to hold it. 
-2. Would like to test how the single side showing both the screen and sensor compares to the two sided where the sensor side could face ther person giving the directions and the screen could face the person getting the directions. perhaps this would depnd on whether the interaction is between two people (giving and getting directions) or one person (giving directions to share with others farther away via a non-screen method. (e.g. send via email, to earphones etc.)
-3. If I use the one thin side and one wider side (where the Pi sits will it feel off balance? or could it help make sure the device is positioned in the right direction? Is it harder or easier to hold in one hand?
+2. Would like to test how the single side design showing both the screen and sensor compares to the two sided design where the sensor side could face the person giving the directions and the screen could face the person getting the directions. Perhaps this would depend on whether the interaction is between two people (giving and getting directions) or one person (giving directions to share with others farther away via a non-screen method like sending via email, to earphones etc.)
+3. If I use the design with one thin end and one wider end where the Pi sits, will the device feel off balance? or could it help make sure the device is positioned in the right direction? Is it harder or easier to hold in one hand?
 4. Does the device need a stop/start button?
 
 All of these questions need to be tested through a prototype to understand the interaction.
