@@ -223,6 +223,9 @@ Think about how you want to present the information about what your sensor is se
  
 **\*\*\*Sketch 5 designs for how you would physically position your display and any buttons or knobs needed to interact with it.\*\*\***
 
+![lab4_prototype_sketches](https://user-images.githubusercontent.com/45234433/138020103-ac00b869-7f7b-405b-96a8-8fcdf2e2d3a9.jpg)
+
+
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
 1. Becasue the sensor is directional the design needs to tell the user te correct way to hold it. 
