@@ -174,11 +174,31 @@ You can go to the [SparkFun GitHub Page](https://github.com/sparkfun/Qwiic_VL53L
 Usually, sensors need to positioned in specific locations or orientations to make them useful for their application. Now that you've tried a bunch of the sensors, pick one that you would like to use, and an application where you use the output of that sensor for an interaction. For example, you can use a distance sensor to measure someone's height if you position it overhead and get them to stand under it.
 
 **\*\*\*Draw 5 sketches of different ways you might use your sensor, and how the larger device needs to be shaped in order to make the sensor useful.\*\*\***
+![gesture_sensor_sketches1](https://user-images.githubusercontent.com/45234433/137959294-1f0ffafc-51a4-4662-9b5d-dac85b295ded.jpg)
+
+![gesture_sensor_sketches2](https://user-images.githubusercontent.com/45234433/137959305-af297aca-f1c5-4d58-8231-0f01d20e0556.jpg)
+
+![gesture_sensor_sketches3](https://user-images.githubusercontent.com/45234433/137959319-d3ed8a83-1ce4-483c-a269-e919c0fa8def.jpg)
+
+![rotary_encoder_sketch](https://user-images.githubusercontent.com/45234433/137959271-be9ce479-a9b3-4a51-b391-d9593de7c59d.jpg) (window not to scale)
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
+1. How close do the gestures need to be to the sensor in order to be picked up? 
+2. If I put the sensor behind a thin surface will gestures still be picked up?
+3. How significant do gestures need to be be picked up by the sensor?
+4. How durable are the sensors? (if it was on a bike that fell over would it break? if it was under a surface that someone stepped on would it break?)
+5. Does it only pick up hand motions? what other getsures will it pick up?
+
+To answer all of these questions requires physically testing the sensor and seeing what it can do. 
+
 **\*\*\*Pick one of these designs to prototype.\*\*\***
 
+I am going to prototype the gesture to directions/instructions. The idea for this device it to be very minimalist. It will only show very bare bones directions (left, right straght, backwards) listed in order. The reason for the minimalism is becasue it will be most useful when people are in a rush/in the middle of something. Some possible scenarios include:
+- a tourist is lost and asks someone on the street for directions
+- a worker on a loud construction site is telling another worker how to get somewhere/where to drive 
+- a person during a play asks the usher for directions to their seat/to the bathroom
+- a soldier needs to give directions but can't make any noise
 
 ### Part D
 ### Physical considerations for displaying information and housing parts
@@ -220,9 +240,21 @@ Think about how you want to present the information about what your sensor is se
  
 **\*\*\*Sketch 5 designs for how you would physically position your display and any buttons or knobs needed to interact with it.\*\*\***
 
+![lab4_prototype_sketches](https://user-images.githubusercontent.com/45234433/138020103-ac00b869-7f7b-405b-96a8-8fcdf2e2d3a9.jpg)
+
+
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
+1. Becasue the sensor is directional the design needs to tell the user te correct way to hold it. 
+2. Would like to test how the single side design showing both the screen and sensor compares to the two sided design where the sensor side could face the person giving the directions and the screen could face the person getting the directions. Perhaps this would depend on whether the interaction is between two people (giving and getting directions) or one person (giving directions to share with others farther away via a non-screen method like sending via email, to earphones etc.)
+3. If I use the design with one thin end and one wider end where the Pi sits, will the device feel off balance? or could it help make sure the device is positioned in the right direction? Is it harder or easier to hold in one hand?
+4. Does the device need a stop/start button?
+
+All of these questions need to be tested through a prototype to understand the interaction.
+
 **\*\*\*Pick one of these display designs to integrate into your prototype.\*\*\***
+
+I will protoype design 4. Having the start/stop on the top and the sensor to the left of the display seems more intuitive. Also there is no need for the wider screen in the case becasue the text is really short and a list is liekly more useful. 
 
 **\*\*\*Explain the rationale for the design.\*\*\*** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
 
