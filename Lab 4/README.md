@@ -324,5 +324,6 @@ Video link: https://youtu.be/CtP52956cEY
 
 ![lab4_pt2_prototype_img2](https://user-images.githubusercontent.com/45234433/138807801-3547e4f4-bec4-4e00-9c5e-52b6e8b2ff0c.jpg)
 
+![lab4_pt2_prototype_img3](https://user-images.githubusercontent.com/45234433/138808331-961be0b3-f00b-4a45-b29f-e6e871268b4e.jpg)
 
 
