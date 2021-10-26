@@ -258,8 +258,7 @@ I will protoype design 4. Having the start/stop on the top and the sensor to the
 
 **\*\*\*Explain the rationale for the design.\*\*\*** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
 
-Build a cardbord prototype of your design.
-
+It should be small enough to be able to hold in your hand and store in your pocket/bag becasue it is used on the go.
 **\*\*\*Document your rough prototype.\*\*\***
 
 
@@ -309,4 +308,6 @@ Document all the prototypes and iterations you have designed and worked on! Agai
 * "Looks like": shows how the device should look, feel, sit, weigh, etc.
 * "Works like": shows what the device can do
 * "Acts like": shows how a person would interact with the device
+
+
 
