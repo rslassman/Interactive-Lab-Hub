@@ -316,7 +316,7 @@ Based on feedback the final prototype is smaller, about the size of a wallet, an
 
 To start, the user presses the green button which triggers a "start recording" message on the device. then the user gestures over the sensor (straight, back, left, right) and the movements are recorded and printed on the screen for the user to reference once the person giving the directions is gone. 
 
-Below are images and a video which demonstrate the look, feel, and functioning of the device. 
-![lab4_pt2_prototype_img1](https://user-images.githubusercontent.com/45234433/138806530-9c1e5bfe-06a1-4a64-891b-26bc2c16d930.jpg)
+Below are images and a video which demonstrate the look, feel, and functioning of the device. The code can be run using gesture_device_2.py
+
 
 
