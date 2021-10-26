@@ -312,11 +312,17 @@ Document all the prototypes and iterations you have designed and worked on! Agai
 
 Final prototype:
 
-Based on feedback the final prototype is smaller, about the size of a wallet, and very light. I also changed the button fromt he bigger black joystick to the green button. Lastly given the smalle size of the actual sensor I made the cut out for the gesture sensor smaller/less exposed. 
+Based on feedback the final prototype is smaller, about the size of a wallet, and very light. I also changed the button from the bigger black joystick to the green button. Also given the smalle size of the actual sensor I made the cut out for the gesture sensor smaller/less exposed. Lastly, based on testing out the device with other users, I kept the button on the bottom (whereas I had sketeched it above the screen). This made it so that users did not end up covering the screen with their hand when pushing the button. It is also easier to reach if the person is using the device with one hand (like how the iphone home button is at the bottom of the screen). 
 
 To start, the user presses the green button which triggers a "start recording" message on the device. then the user gestures over the sensor (straight, back, left, right) and the movements are recorded and printed on the screen for the user to reference once the person giving the directions is gone. 
 
 Below are images and a video which demonstrate the look, feel, and functioning of the device. The code can be run using gesture_device_2.py
+
+Video link: https://youtu.be/CtP52956cEY
+
+![lab4_pt2_prototype_img1](https://user-images.githubusercontent.com/45234433/138807738-21efce95-d850-4aea-bf78-c39550d40a71.jpg)
+
+![lab4_pt2_prototype_img2](https://user-images.githubusercontent.com/45234433/138807801-3547e4f4-bec4-4e00-9c5e-52b6e8b2ff0c.jpg)
 
 
 
