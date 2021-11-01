@@ -157,6 +157,14 @@ Try the two main features of this script: 1) pinching for percentage control, an
 
 (You might also consider how this notion of percentage control with hand tracking might be used in some of the physical UI you may have experimented with in the last lab, for instance in controlling a servo or rotary encoder.)
 
+Media pipe images:
+
+![lab5_pinch_0](https://user-images.githubusercontent.com/45234433/139721207-421e4aed-fc1b-4114-ad07-43f9f5b7011b.png)
+
+![lab5_pinch_98](https://user-images.githubusercontent.com/45234433/139721222-ed1bc59e-04da-474d-9bd8-ac31d3117b0f.png)
+
+![lab5_quiet_coyote](https://user-images.githubusercontent.com/45234433/139721233-2915a3a5-4902-4c32-b939-168a9a7fa4c8.png)
+
 
 
 #### Teachable Machines
