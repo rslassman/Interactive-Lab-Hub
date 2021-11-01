@@ -102,17 +102,19 @@ pi@ixe00:~/openCV-examples/object-detection $ python detect.py
 
 
 Contour detection image:<img width="1435" alt="lab5_contours_img" src="https://user-images.githubusercontent.com/45234433/139720773-50a0d5b6-84dd-483e-bdee-b54b55f0361d.png">
-Contour detection design idea: create a camera/device than can convert a collection of pictures taken on the camera into a coloring book (i.e. with black outlines and a white background). ![lab5_contors_design_sketch](https://user-images.githubusercontent.com/45234433/139720959-edbf0dc5-33ea-4b81-aa33-9a6f1c05c4df.jpg)
+
+**Contour detection design idea**: create a camera/device than can convert a collection of pictures taken on the camera into a coloring book (i.e. with black outlines and a white background). 
+![lab5_contors_design_sketch](https://user-images.githubusercontent.com/45234433/139721382-2d4ea3e2-09ab-4dde-a4a5-9595534f761d.jpg)
 
 
 Face detection image: <img width="1387" alt="lab5_face_detection_img" src="https://user-images.githubusercontent.com/45234433/139720636-1d5a6174-b76a-442c-a1bf-9c65a92141c9.png">
-Face detection design idea:
+**Face detection design idea**:
 
 Optical flow image: <img width="1401" alt="lab5_optical_flow_img" src="https://user-images.githubusercontent.com/45234433/139720719-86b75c23-fdf0-4ff1-b3d8-3b0cfcb59f01.png">
-Optical flow design idea:
+**Optical flow design idea**:
 
 Object detection iamge:<img width="1311" alt="lab5_object_detection_img" src="https://user-images.githubusercontent.com/45234433/139720842-0f419471-a08b-40d3-8918-d094ed6b835c.png">
-Object detection design idea:
+**Object detection design idea**:
 
 
 
