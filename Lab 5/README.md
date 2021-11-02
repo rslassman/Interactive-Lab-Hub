@@ -239,6 +239,8 @@ Try out different interaction outputs and inputs.
 
 **\*\*\*Describe and detail the interaction, as well as your experimentation here.\*\*\***
 
+I prototyped a device that can detect if parking spaces are occupied by cars or are empty. To do this I created a small parking lot using cardboard and cars using paper. Then I put the lot in the view of the web cam and tested whether it recognized the objects as they "drove" in and out of the parking lot. 
+
 ### Part C
 ### Test the interaction prototype
 
