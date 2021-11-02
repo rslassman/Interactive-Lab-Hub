@@ -114,7 +114,7 @@ Optical flow image: <img width="1401" alt="lab5_optical_flow_img" src="https://u
 **Optical flow design idea**:
 
 Object detection iamge:<img width="1311" alt="lab5_object_detection_img" src="https://user-images.githubusercontent.com/45234433/139720842-0f419471-a08b-40d3-8918-d094ed6b835c.png">
-**Object detection design idea**:
+**Object detection design idea**: install object detection software in parking lot and street cameras that can identify whether or not parking spaces are occupied or empty. A camera that looks over an entire parking level or street using object dection would be able to tell us exactly which spaces are occupied and which are free. This could then feed into a 'spot finder' app/user interface to help guide drivers directly to open parking spaces 
 
 
 
@@ -167,7 +167,9 @@ Media pipe images:
 
 ![lab5_quiet_coyote](https://user-images.githubusercontent.com/45234433/139721233-2915a3a5-4902-4c32-b939-168a9a7fa4c8.png)
 
-
+**Media pipe design ideas:** 
+1. one way to use the percentage control could be to control opening and closing of windows across the room. For instance the percentage you signal on camera could cause the device to pull the window open by that amount. 
+2. a second interesting use case for the hand pose tracking could be creating a written recording of a conversation being held in sign language
 
 #### Teachable Machines
 Google's [TeachableMachines](https://teachablemachine.withgoogle.com/train) might look very simple. However, its simplicity is very useful for experimenting with the capabilities of this technology.
