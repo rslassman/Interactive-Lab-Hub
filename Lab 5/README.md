@@ -107,11 +107,13 @@ Contour detection image:<img width="1435" alt="lab5_contours_img" src="https://u
 ![lab5_contors_design_sketch](https://user-images.githubusercontent.com/45234433/139721382-2d4ea3e2-09ab-4dde-a4a5-9595534f761d.jpg)
 
 
-Face detection image: <img width="1387" alt="lab5_face_detection_img" src="https://user-images.githubusercontent.com/45234433/139720636-1d5a6174-b76a-442c-a1bf-9c65a92141c9.png">
+Face detection image: <img width="1078" alt="lab5_face_detect_img" src="https://user-images.githubusercontent.com/45234433/139764100-14258fec-0c08-4964-86fd-a924244e0959.png">
 **Face detection design idea**:
 
 Optical flow image: <img width="1401" alt="lab5_optical_flow_img" src="https://user-images.githubusercontent.com/45234433/139720719-86b75c23-fdf0-4ff1-b3d8-3b0cfcb59f01.png">
-**Optical flow design idea**:
+**Optical flow design idea**: create a device that reminds people to look up. I can picture two scenarios:
+1. a person who is walking and texting who forgets to look up and see if they are going to bump into people/cars/polls etc. The device could be installed in the phone camera and if more than a certain amount of time passes without the user looking up (could be calibrated to the environment) then the phone could either send a text message or beep or verbally send a message to the user to look up. 
+2. when on a hike or walking a lot of times people are focused on where to put their feet next or going fast and miss the sights. This device, maybe on the persons shoes (?) could track their eye movements and again if after a certain amount of time they havent looked up it can somehow send them a message (shoe vibration, ping, verbal message etc.)
 
 Object detection iamge:<img width="1311" alt="lab5_object_detection_img" src="https://user-images.githubusercontent.com/45234433/139720842-0f419471-a08b-40d3-8918-d094ed6b835c.png">
 **Object detection design idea**: install object detection software in parking lot and street cameras that can identify whether or not parking spaces are occupied or empty. A camera that looks over an entire parking level or street using object dection would be able to tell us exactly which spaces are occupied and which are free. This could then feed into a 'spot finder' app/user interface to help guide drivers directly to open parking spaces 
@@ -167,9 +169,8 @@ Media pipe images:
 
 ![lab5_quiet_coyote](https://user-images.githubusercontent.com/45234433/139721233-2915a3a5-4902-4c32-b939-168a9a7fa4c8.png)
 
-**Media pipe design ideas:** 
-1. one way to use the percentage control could be to control opening and closing of windows across the room. For instance the percentage you signal on camera could cause the device to pull the window open by that amount. 
-2. a second interesting use case for the hand pose tracking could be creating a written recording of a conversation being held in sign language
+**Media pipe design ideas:** one way to use the percentage control could be to control opening and closing of windows across the room. For instance the percentage you signal on camera could cause the device to pull the window open by that amount. 
+
 
 #### Teachable Machines
 Google's [TeachableMachines](https://teachablemachine.withgoogle.com/train) might look very simple. However, its simplicity is very useful for experimenting with the capabilities of this technology.
@@ -205,7 +206,7 @@ This might take a while to get fully installed. After installation, connect your
 
 Teachable machines image: ![lab5_teachable_machines_img](https://user-images.githubusercontent.com/45234433/139721679-57dbb6ca-8bd1-44b2-86f3-da3f0e24d135.png)
 
-**Teachable machines design idea:**
+**Teachable machines design idea:** assuming any number of classes can be used, one interesting use case for the teachable machine (in conjunction with hand post tracking) could be creating a written recording of a conversation being held in sign language. Unlike media pipe this would allow the two users having the conversation to be more flexible in the angle and setting. It is more likley that using teachable machine the algorithm could guess the right hand motion whereas using media pipe it would have to be at the exact right angle to be understood which is not realistic in a real world setting. 
 
 *Don't forget to run ```deactivate``` to end the Teachable Machines demo, and to reactivate with ```source tmachine/bin/activate``` when you want to use it again.*
 
