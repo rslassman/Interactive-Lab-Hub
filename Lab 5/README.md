@@ -249,6 +249,8 @@ I realized using the webcam that the object detector kept on picking up the outl
 
 ![lab5_parking_cardboard](https://user-images.githubusercontent.com/45234433/139784088-52135c1e-10ad-479a-a48d-cd697771942f.jpg)
 
+
+
 Next I tried removing the cardboard parking lot and just moving the cars on the solid color desk top. The results of this test can be seen in this video:
 https://youtu.be/_bkF_Zxc9bI 
 
@@ -267,8 +269,7 @@ For example:
 - fails to detect all cars at once most of the time. Fails if the camera is too far away or at a different angle. 
 
 5. When it fails, why does it fail?
-6. - this may have to do with the fact that the camera was held by hand and not fully stable. Shadows and other lighting uneveness may also have impacted the detection process. 
-
+- this may have to do with the fact that the camera was held by hand and not fully stable. Shadows and other lighting uneveness may also have impacted the detection process. 
 
 7. Based on the behavior you have seen, what other scenarios could cause problems?
 - I would guess that different weather patterns (rain, snow, bright sunlight) would all have significant impacts on the ability of the device to see the objects. 
@@ -276,9 +277,17 @@ For example:
 
 **\*\*\*Think about someone using the system. Describe how you think this will work.\*\*\***
 1. Are they aware of the uncertainties in the system?
-1. How bad would they be impacted by a miss classification?
-1. How could change your interactive system to address this?
-1. Are there optimizations you can try to do on your sense-making algorithm.
+- Ideally when presented to the user there could be a likelhood score and/or it could be aggregated to increase certainty. For instance if could say we are 95% sure there is a space at x, or we are 99% sure there is a space in row y. 
+
+3. How bad would they be impacted by a miss classification?
+- A misclassification would be frustrating but they could find another space. The realy challegne would be if they lost faith in the model. However that is still only a challenge for the device and nothing disastrous for the user. 
+- another risk is that the space is already taken by the time the user gets there. 
+
+5. How could change your interactive system to address this?/ Are there optimizations you can try to do on your sense-making algorithm?
+- could include a rate/review of the user's experience to gauge how they are feeling about the model performance. 
+- make adjustments fo rcapacity so that only one person is recommended one space. Direct people to rows with more vacancy to increase their chances of finding a space instead of rows with only one space.
+
+
 
 ### Part D
 ### Characterize your own Observant system
