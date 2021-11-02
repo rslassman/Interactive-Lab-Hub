@@ -239,7 +239,21 @@ Try out different interaction outputs and inputs.
 
 **\*\*\*Describe and detail the interaction, as well as your experimentation here.\*\*\***
 
-I prototyped a device that can detect if parking spaces are occupied by cars or are empty. To do this I created a small parking lot using cardboard and cars using paper. Then I put the lot in the view of the web cam and tested whether it recognized the objects as they "drove" in and out of the parking lot. 
+The complete idea for this device is to detect if parking spaces are occupied by cars or are empty. Then to send this information to people looking for parking spaces. To do this I started by creating a small parking lot using cardboard and cars using paper. Then I put the lot in the view of the webcam and tested whether it recognized the objects (cars) in the parking spaces. 
+
+![lab5_parkinglot1](https://user-images.githubusercontent.com/45234433/139783870-c3276f5b-ae1a-42c3-922d-9ec9b47ba85b.jpg)
+
+![lab5_parkinglot2](https://user-images.githubusercontent.com/45234433/139783908-7179dec7-fee7-4608-b723-30d8215ead19.jpg)
+
+I realized using the webcam that the object detector kept on picking up the outline of the cardboard parking lot:
+
+![lab5_parking_cardboard](https://user-images.githubusercontent.com/45234433/139784088-52135c1e-10ad-479a-a48d-cd697771942f.jpg)
+
+Next I tried removing the cardboard parking lot and just moving the cars on the solid color desk top. The results of this test can be seen in this video:
+https://youtu.be/_bkF_Zxc9bI 
+
+
+
 
 ### Part C
 ### Test the interaction prototype
@@ -247,9 +261,18 @@ I prototyped a device that can detect if parking spaces are occupied by cars or 
 Now flight test your interactive prototype and **note down your observations**:
 For example:
 1. When does it what it is supposed to do?
-1. When does it fail?
-1. When it fails, why does it fail?
-1. Based on the behavior you have seen, what other scenarios could cause problems?
+- it worked better when I removed the cardboard. I also noticed that I needed to be fairly close to the objects. It also very rarely detected all three or four cars and once and more often detected one or two. Seemed to work best right at the begining when all cars were just placed.
+
+3. When does it fail?
+- fails to detect all cars at once most of the time. Fails if the camera is too far away or at a different angle. 
+
+5. When it fails, why does it fail?
+6. - this may have to do with the fact that the camera was held by hand and not fully stable. Shadows and other lighting uneveness may also have impacted the detection process. 
+
+
+7. Based on the behavior you have seen, what other scenarios could cause problems?
+- I would guess that different weather patterns (rain, snow, bright sunlight) would all have significant impacts on the ability of the device to see the objects. 
+
 
 **\*\*\*Think about someone using the system. Describe how you think this will work.\*\*\***
 1. Are they aware of the uncertainties in the system?
