@@ -106,9 +106,8 @@ Contour detection image:<img width="1435" alt="lab5_contours_img" src="https://u
 **Contour detection design idea**: create a camera/device than can convert a collection of pictures taken on the camera into a coloring book (i.e. with black outlines and a white background). 
 ![lab5_contors_design_sketch](https://user-images.githubusercontent.com/45234433/139721382-2d4ea3e2-09ab-4dde-a4a5-9595534f761d.jpg)
 
-
 Face detection image: <img width="1078" alt="lab5_face_detect_img" src="https://user-images.githubusercontent.com/45234433/139764100-14258fec-0c08-4964-86fd-a924244e0959.png">
-**Face detection design idea**:
+**Face detection design idea**: use face detection in large spaces to detect how many people are in the room. For example at a concert or especially at non-ticketed events this can help event planners/building owners understand how many people attended.
 
 Optical flow image: <img width="1401" alt="lab5_optical_flow_img" src="https://user-images.githubusercontent.com/45234433/139720719-86b75c23-fdf0-4ff1-b3d8-3b0cfcb59f01.png">
 **Optical flow design idea**: create a device that reminds people to look up. I can picture two scenarios:
@@ -116,7 +115,7 @@ Optical flow image: <img width="1401" alt="lab5_optical_flow_img" src="https://u
 2. when on a hike or walking a lot of times people are focused on where to put their feet next or going fast and miss the sights. This device, maybe on the persons shoes (?) could track their eye movements and again if after a certain amount of time they havent looked up it can somehow send them a message (shoe vibration, ping, verbal message etc.)
 
 Object detection iamge:<img width="1311" alt="lab5_object_detection_img" src="https://user-images.githubusercontent.com/45234433/139720842-0f419471-a08b-40d3-8918-d094ed6b835c.png">
-**Object detection design idea**: install object detection software in parking lot and street cameras that can identify whether or not parking spaces are occupied or empty. A camera that looks over an entire parking level or street using object dection would be able to tell us exactly which spaces are occupied and which are free. This could then feed into a 'spot finder' app/user interface to help guide drivers directly to open parking spaces 
+**Object detection design idea**: use object detection in parking lot and street cameras to can identify whether or not parking spaces are occupied or empty. A camera that looks over an entire parking level or street using object dection would be able to tell us exactly which spaces are occupied and which are free. This could then feed into a 'spot finder' app/user interface to help guide drivers directly to open parking spaces 
 
 
 
@@ -207,6 +206,12 @@ This might take a while to get fully installed. After installation, connect your
 Teachable machines image: ![lab5_teachable_machines_img](https://user-images.githubusercontent.com/45234433/139721679-57dbb6ca-8bd1-44b2-86f3-da3f0e24d135.png)
 
 **Teachable machines design idea:** assuming any number of classes can be used, one interesting use case for the teachable machine (in conjunction with hand post tracking) could be creating a written recording of a conversation being held in sign language. Unlike media pipe this would allow the two users having the conversation to be more flexible in the angle and setting. It is more likley that using teachable machine the algorithm could guess the right hand motion whereas using media pipe it would have to be at the exact right angle to be understood which is not realistic in a real world setting. 
+
+I also trained a model to identify whether the object I was holding was a mug or a water bottle. Similar to the predictions are easier to do and provide more flexability inidentifying the objects. Below are images from the model trained on waterbottle vs mug.
+![lab5_waterbottle](https://user-images.githubusercontent.com/45234433/139781624-647f06a4-ddfc-456d-814d-ee84b6db0d41.png)
+
+![lab5_mug](https://user-images.githubusercontent.com/45234433/139781640-71655d61-368a-4225-ac6b-ecc62d2dc298.png)
+
 
 *Don't forget to run ```deactivate``` to end the Teachable Machines demo, and to reactivate with ```source tmachine/bin/activate``` when you want to use it again.*
 
