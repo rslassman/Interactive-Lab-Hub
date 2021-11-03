@@ -302,7 +302,11 @@ During the lecture, we mentioned questions to help characterize a material:
 * What are other properties/behaviors of X?
 * How does X feel?
 
+
 **\*\*\*Include a short video demonstrating the answers to these questions.\*\*\***
+
+video:
+https://youtu.be/_bkF_Zxc9bI 
 
 ### Part 2.
 
