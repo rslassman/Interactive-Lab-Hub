@@ -294,13 +294,13 @@ For example:
 
 Now that you have experimented with one or more of these sense-making systems **characterize their behavior**.
 During the lecture, we mentioned questions to help characterize a material:
-* What can you use X for?
-* What is a good environment for X?
-* What is a bad environment for X?
-* When will X break?
-* When it breaks how will X break?
-* What are other properties/behaviors of X?
-* How does X feel?
+* What can you use X for? identifying objects
+* What is a good environment for X? lots of light, clear color distinctions
+* What is a bad environment for X? no light/all the same colors
+* When will X break? not able to identify objects
+* When it breaks how will X break? make bad recommendations
+* What are other properties/behaviors of X? 
+* How does X feel? blocky/delayed
 
 
 **\*\*\*Include a short video demonstrating the answers to these questions.\*\*\***
@@ -313,3 +313,20 @@ https://youtu.be/_bkF_Zxc9bI
 Following exploration and reflection from Part 1, finish building your interactive system, and demonstrate it in use with a video.
 
 **\*\*\*Include a short video demonstrating the finished result.\*\*\***
+The following video shows the prototyped result. The garage is a two space garage. Cars enter from the left and exit from the right. The two spaces are labeled A1 and A2. When a new car is detected in the entryway they get a ping saying "Welcome to the garage!" followed by a ping that tells them where the closest avaiable parking space is. 
+
+![lab5 2_picture1](https://user-images.githubusercontent.com/45234433/141054794-5fbc2001-1320-4e2b-8539-7539fe6f093b.jpg)
+
+![lab5 2_picture2](https://user-images.githubusercontent.com/45234433/141054805-1fe39fa0-7d74-482a-9ca1-b6b47a077277.jpg)
+
+![lab5 2_picture3](https://user-images.githubusercontent.com/45234433/141054822-87d7907a-bf6b-4f56-8398-ba1fb3c52a10.jpg)
+
+![lab5 2_picture4](https://user-images.githubusercontent.com/45234433/141054832-6e96cc22-348d-486c-9a43-a8957f5c9ce0.jpg)
+
+![lab5 2_picture5](https://user-images.githubusercontent.com/45234433/141054841-c1ef9a8d-2bf6-457a-8b40-deeecd40e10f.jpg)
+
+
+The video first shows the single car being detected so the only remaining space is A1. The video then shows the new car being detected in the entryway followed by the ping to the car's cell phone. The user opens the message to get a welcome note and a recommendation for parking. They then move into the spot and the camera now detects two cars in the garage. 
+
+Video: https://youtu.be/8Pl2QAPxlvs
+
