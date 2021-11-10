@@ -326,7 +326,7 @@ The following video shows the prototyped result. The garage is a two space garag
 ![lab5 2_picture5](https://user-images.githubusercontent.com/45234433/141054841-c1ef9a8d-2bf6-457a-8b40-deeecd40e10f.jpg)
 
 
-The video first shows the single car being detected so the only remaining space is A1. The video then shows the new car being detected in the entryway followed by the ping to the car's cell phone. The user opens the message to get a welcome note and a recommendation for parking. They then move into the spot and the camera now detects two cars in the garage. 
+The video first shows the single car being detected in the lot in space A2. Then a new car is detected in the entrance to the garage. Then the user recieves a ping. The user opens the message to get a welcome note and a recommendation for an open parking space. The user then moves into the spot and the camera now detects two cars in the garage. 
 
 Video: https://youtu.be/8Pl2QAPxlvs
 
