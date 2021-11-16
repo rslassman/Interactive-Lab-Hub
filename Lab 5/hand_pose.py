@@ -5,6 +5,7 @@ import HandTrackingModule as htm
 import math
 from ctypes import cast, POINTER
 import alsaaudio
+m = alsaaudio.Mixer('Headphone')
 m = alsaaudio.Mixer()
 ################################
 wCam, hCam = 640, 480
