@@ -112,7 +112,14 @@ Plug in the capacitive sensor board with the Qwiic connector. Use the alligator 
 
 **\*\*\*Include a picture of your setup here: what did you see on MQTT Explorer?\*\*\***
 
+![lab6_touch_sensor](https://user-images.githubusercontent.com/45234433/142281381-8fd391c5-c2b7-4221-87d8-ca97267c7443.jpg)
+
+See the value appear in the MQTT interface with the group/subfolder hilighted (as shown in image above)
+
 **\*\*\*Pick another part in your kit and try to implement the data streaming with it.\*\*\***
+Chose to implement the data streaming with the gesture sensor. 
+
+![lab6_gesture_sensor](https://user-images.githubusercontent.com/45234433/142281642-382d23c3-186e-45c3-959f-a9353f583e00.jpg)
 
 
 ### Part D
