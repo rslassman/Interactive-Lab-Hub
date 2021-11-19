@@ -161,7 +161,7 @@ Find at least one class (more are okay) partner, and design a distributed applic
 
 **\*\*\*1. Explain your design\*\*\*** For example, if you made a remote controlled banana piano, explain why anyone would want such a thing.
 
-We desgined a system that tells you which door bell is ringing. For example if your house has 3 doors, the side door, the front door and the back door, the device will say/text youse 'someone is ringing your doorbell from the _front door_.'
+We desgined a system that tells you which door bell is ringing. For example if your house has 3 doors, the side door, the front door and the back door, the device will send you a text message notification with the text: 'someone is ringing your doorbell from the _front door_.'
 
 **\*\*\*2. Diagram the architecture of the system.\*\*\*** Be clear to document where input, output and computation occur, and label all parts and connections. For example, where is the banana, who is the banana player, where does the sound get played, and who is listening to the banana music?
 
