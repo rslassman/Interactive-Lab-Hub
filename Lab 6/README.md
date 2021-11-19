@@ -167,13 +167,18 @@ We desgined a system that tells you which door bell is ringing. For example if y
 
 
 
+
 **\*\*\*3. Build a working prototype of the system.\*\*\*** Do think about the user interface: if someone encountered these bananas somewhere in the wild, would they know how to interact with them? Should they know what to expect?
 
 Yes - we made a smart doorbell system that should match peoples existing understanding/use/interaction with doorbells. For the person getting the notification, they get a text message that clearly says the doorbell is ringing and which doorbell it is so that should also be clear to people. 
+
+![lab6_part_e_img-1](https://user-images.githubusercontent.com/45234433/142658444-a7150f52-85c6-4306-bfb4-bc9beb99b684.jpg)
 
 **\*\*\*4. Document the working prototype in use.\*\*\*** It may be helpful to record a Zoom session where you should the input in one location clearly causing response in another location.
 
 Prototype video: https://youtu.be/9m7tELprXJ4
 
 <!--**\*\*\*5. BONUS (Wendy didn't approve this so you should probably ignore it)\*\*\*** get the whole class to run your code and make your distributed system BIGGER.-->
+
+**For this lab I worked with Marvin Edmond**
 
