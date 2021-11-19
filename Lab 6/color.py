@@ -55,7 +55,7 @@ sensor = adafruit_apds9960.apds9960.APDS9960(i2c)
 sensor.enable_color = True
 r, g, b, a = sensor.color_data
 
-topic = 'IDD/colors'
+topic = 'IDD/rsl252/colors'
 
 def on_connect(client, userdata, flags, rc):
     print(f"connected with result code {rc}")
