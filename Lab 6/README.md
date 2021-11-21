@@ -165,7 +165,7 @@ We desgined a system that tells you which door bell is ringing. For example if y
 
 **\*\*\*2. Diagram the architecture of the system.\*\*\*** Be clear to document where input, output and computation occur, and label all parts and connections. For example, where is the banana, who is the banana player, where does the sound get played, and who is listening to the banana music?
 
-
+![doorbell_sms_diagram](https://user-images.githubusercontent.com/45234433/142771587-407aaeba-73e2-436d-969a-2750e72225a9.png)
 
 
 **\*\*\*3. Build a working prototype of the system.\*\*\*** Do think about the user interface: if someone encountered these bananas somewhere in the wild, would they know how to interact with them? Should they know what to expect?
