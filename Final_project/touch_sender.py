@@ -25,14 +25,13 @@ while True:
         if mpr121[i].value:
             val = f"{i}"
             print(val)
-            if val == "6":
+            if val == "8":
                 msg = "Left"
                 print(msg)
                 client.publish(topic, msg)
-            elif val == "9":
+                time.sleep(5)
                 msg = "Straight"
-                print(msg)
-                client.publish(topic, msg)
+                client.publish(topic,msg)
             elif val == "11":
                 msg = "Right"
                 print(msg)
